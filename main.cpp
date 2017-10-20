@@ -7,7 +7,7 @@ int main()
         unsigned  int i,j;
         vector <vector <char> >starm;
         do{
-               cout<< "Enter 2 positive whole numbers."<<endl;
+               cout<< "Enter rows and columns of stars:"<<endl;
                cin>>i;
                cin>>j;
           } while (i<0 || j<0);
